@@ -2,7 +2,7 @@
 
 #### _{Brief description of application}, {Date of current version}_
 
-#### By _**Marc Davies**_
+#### By _**Justin Kerntz**_
 
 ## Description
 
@@ -29,7 +29,7 @@ _None as of last update_
 
 ## Support and contact details
 
-_Please contact me at marcdaviesriot@gmail.com if you run into any issues or have questions, ideas or feedback._
+_Please contact me if you run into any issues or have questions, ideas or feedback._
 
 ## Technologies Used
 
@@ -39,4 +39,4 @@ _C#_
 
 *This software is licensed under the GPL license.*
 
-Copyright (c) 2019 **_Marc Davies_**
+Copyright (c) 2019 **_Justin Kerntz_**
